@@ -8,9 +8,9 @@ const headers = {
 
 const appConfig = {
   "ver": 1,
-  "name": "测试",
+  "name": "xuchao",
   "message": "",
-  "warning": "⚠️ 测试用 随时改结构 请勿使用",
+  "warning": "⚠️ xuchao个人",
   "desc": "",
   "tabLibrary": {
     "name": "探索",
