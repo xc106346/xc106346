@@ -1008,13 +1008,4 @@ async function getSongInfo(ext) {
   }
   
   return jsonify({ urls: [] })
-}
-    getArtistWorks: getArtistWorks,
-    getLyric: getLyric,
-    importMusicSheet,
-    getTopLists,
-    getTopListDetail,
-    getRecommendSheetTags,
-    getRecommendSheetsByTag,
-    getMusicSheetInfo,
-};
+
