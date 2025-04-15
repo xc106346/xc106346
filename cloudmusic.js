@@ -266,7 +266,7 @@ async function getSongInfo(ext) {
 }
 
 async function yecaoGetPlayUrl(params) {
-  let endpoint = ""
+  let endpoint = "https://wildapi.example.com"
   if (params.soundid) {
     endpoint = `https://wildapi.example.com/getsong?soundid=${params.soundid}`
   } else if (params.qid) {
