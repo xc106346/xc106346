@@ -1,5 +1,4 @@
 
-
 const $config = argsify($config_str)
 const cheerio = createCheerio()
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
@@ -9,7 +8,7 @@ const headers = {
 
 const appConfig = {
   "ver": 1,
-  "name": "梁子龙",
+  "name": "梁子龙个人",
   "message": "",
   "warning": "for梁子龙",
   "desc": "",
