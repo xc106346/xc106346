@@ -12,7 +12,7 @@ const ALL_SOURCES = [
 	{ id: 'kuwo', name: '酷我' },
 	{ id: 'joox', name: 'JOOX' },
 	{ id: 'tencent', name: 'QQ' },
-	{ id: 'bilibili', name: 'b站' },
+	//{ id: 'bilibili', name: 'b站' },
 	//{ id: 'tidal', name: 'Tidal' },
 	//{ id: 'spotify', name: 'Spotify' },
 	//{ id: 'ytmusic', name: 'YouTube' },
@@ -21,7 +21,7 @@ const ALL_SOURCES = [
 	//{ id: 'migu', name: '咪咕' },
 	//{ id: 'kugou', name: '酷狗' },
 	//{ id: 'ximalaya', name: '喜马拉雅' },
-	//{ id: 'apple', name: 'Apple' }
+	{ id: 'apple', name: 'Apple' }
 ]
 
 !(function (n) {
